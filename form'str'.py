@@ -14,9 +14,9 @@ print('Волшебники данных решили задачи за {:.2f} C
 score_1 = 40
 print(f'Команда решила {score_1} И {score_2} задач.')
 
-challenge_result = 'Победа команды Волшебники данных!'
-print(f'Результат битвы: {challenge_result}')
-
 tasks_total = 82
 time_avg = 45.2
 print(f'Сегодня было решено {tasks_total} задач, в среднем по {time_avg:.1f} секунды на задачу!.')
+
+challenge_result = 'Победа команды Волшебники данных!'
+print(f'Результат битвы: {challenge_result}')
