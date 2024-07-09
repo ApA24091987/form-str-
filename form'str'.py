@@ -1,4 +1,5 @@
-team1_num = 6
+team1_num = 5
+
 print('В команде Мавстера кода участников: %d !' % team1_num)
 
 team2_num = 6
